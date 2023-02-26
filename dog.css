@@ -174,26 +174,13 @@ body {
     background-color: burlywood;
 }
 
-.eyeball1 {
+.eyeball {
     border: solid 4px black;
     background-color: black;
     border-radius: 999px;
+    height: 40px;
+    width: 40px;
     position: absolute;
-    width: 25px;
-    top: 175px;
-    height: 25px;
-    left: 20px;
-    margin-left: 50px;
-}
-
-.eyeball2 {
-    border: solid 4px black;
-    background-color: black;
-    border-radius: 999px;
-    position: absolute;
-    width: 25px;
-    top: 175px;
-    height: 25px;
-    right: 67px;
-    margin-left: 50px;
+    top: 25%;
+    left: 25%;
 }
