@@ -180,8 +180,9 @@ body {
     border-radius: 999px;
     position: absolute;
     width: 25px;
-    top: 150px;
+    top: 175px;
     height: 25px;
+    left: 20px;
     margin-left: 50px;
 }
 
@@ -191,7 +192,8 @@ body {
     border-radius: 999px;
     position: absolute;
     width: 25px;
-    top: -4px;
+    top: 175px;
     height: 25px;
-    margin-right: 50px;
+    right: 67px;
+    margin-left: 50px;
 }
